@@ -1,5 +1,5 @@
-import Sidebar from "./Components/Sidebar";
-import Card from "./Components/Card";
+import Sidebar from "../Components/Sidebar";
+import Card from "../Components/Card";
 
 const cardData = [
   {  id: "1",title:"TOTAL URLS", total: 456 },
